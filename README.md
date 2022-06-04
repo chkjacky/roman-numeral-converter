@@ -19,7 +19,7 @@ These instructions will get you a copy of the project on your local machine.
 ### Downloading the Python File
 Once you have installed Python, you may download the **roman_numeral_converter.py** and run it on your machine.
 
-![](https://raw.githubusercontent.com/chkjacky/roman-numeral-converter/main/animated_roman_numeral_converter.gif.gif)
+![](https://raw.githubusercontent.com/chkjacky/roman-numeral-converter/main/animated_roman_numeral_converter.gif2.gif)
 
 **Have fun!**
 
